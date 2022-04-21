@@ -187,8 +187,11 @@ label {
 
 
 @media only screen and (max-width: 600px) {
+    #crtcnt{
+    height: 380px;
+    }
     #total{
         margin-top: 40px;
-        margin-bottom: 80px;
+        margin-bottom: 40px;
     }
   }
